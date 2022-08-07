@@ -1,4 +1,5 @@
 
 [webservers]
-AmzLinuxservers ansible_host=ec2-52-87-123-139.compute-1.amazonaws.com ansible_ssh_user=ec2-user
-Ubuntuservers ansible_host=ec2-34-238-234-114.compute-1.amazonaws.com ansible_ssh_user=ubuntu
+AmzLinuxservers ansible_host=ec2-54-89-223-98.compute-1.amazonaws.com ansible_user=ec2-user
+
+Ubuntuservers ansible_host=ec2-44-204-228-84.compute-1.amazonaws.com ansible_user=ubuntu
