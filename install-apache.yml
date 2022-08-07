@@ -1,7 +1,7 @@
 - name: Install Apache on Web server
   hosts: 
-    - web1
-    - web2
+    - AmzLinuxservers
+    - Ubuntuservers
   vars:
     app: apache2
   tasks:

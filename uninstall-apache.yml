@@ -1,7 +1,7 @@
 - name: Uninstall Apache on Web server
   hosts: 
-    - web1
-    - web2
+    - Ubuntuservers
+    - AmzLinuxservers
   vars:
     apps:
       - apache2
