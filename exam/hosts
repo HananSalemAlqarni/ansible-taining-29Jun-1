@@ -1,5 +1,5 @@
-
-[webservers]
+[AmzLinuxservers]
 AmzLinuxservers ansible_host=ec2-54-89-223-98.compute-1.amazonaws.com ansible_user=ec2-user
 
+[Ubuntuservers]
 Ubuntuservers ansible_host=ec2-44-204-228-84.compute-1.amazonaws.com ansible_user=ubuntu
